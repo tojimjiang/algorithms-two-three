@@ -2,7 +2,6 @@
 *Used for Basic Algorithms*
 
 In this repository:  
-
 [Ford's Dilemma](https://www.hackerrank.com/contests/spring-2018-csci-ua-310-001-basic-algorithms-programming-assignment-1/challenges) with creating and querying in a two-three tree.  
 
 [Hijacking the Fees](https://www.hackerrank.com/contests/spring-2018-csci-ua-310-001-basic-algorithms-programming-assignment-2/challenges) with updating in a two-three tree.  
